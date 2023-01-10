@@ -1,1 +1,2 @@
 # BeMoProject
+The project is a Kanban board similar to Trello, where the user can create columns and add cards to those columns. The columns have a title and a delete button, and the cards have a title and description. The user can open a card in a modal to edit the title and description, and cards can be dragged and dropped within and between columns. The backend uses PHP and Laravel for all back-end operations, and VueJS 2 for front-end operations with SCSS for styling.
